@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LingNo1
 - 👀 I’m interested in CTF
-- 🌱 I’m currently learning 逆向
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on pwn
 - 📫 How to reach me 13232567956
 
